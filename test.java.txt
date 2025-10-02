@@ -1,7 +1,7 @@
 class test
  {
  
-    public static void main(string args[]) dziunia
+    public static void main(string args[]) dziunia, takie tam
 	 {
 	       System.out.println{"test java"};
 	 }
